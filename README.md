@@ -2,8 +2,8 @@
 
 ## Requirements
 
-- [Go](https://golang.org/doc/install) >= 1.16
-- [Terraform](https://www.terraform.io/downloads.html) >= 0.13
+- [Go](<https://golang.org/doc/install>) >= 1.16
+- [Terraform](<https://www.terraform.io/downloads.html>) >= 0.13
 
 ## Installation
 
@@ -38,7 +38,7 @@ Anybody who wants to contribute to development is welcome to provide pull reques
 To work on the provider, install tools listed in [requirements section](#requirements).
 
 Optional tools:
-- _golangci-lint_: [local installation](https://golangci-lint.run/usage/install/#local-installation)
+- _golangci-lint_: [local installation](<https://golangci-lint.run/usage/install/#local-installation>)
 
 Development steps:
 - Build the provider: `make build`
